@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.react-select__control {
+  @apply border border-gray-300 rounded-2xl shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-all;
+}
+.react-select__multi-value {
+  @apply bg-indigo-100 text-indigo-800 rounded px-1 py-0.5;
+}
+.react-select__multi-value__label {
+  @apply text-sm;
+}
+.react-select__multi-value__remove {
+  @apply cursor-pointer;
+}
