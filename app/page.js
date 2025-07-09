@@ -389,7 +389,7 @@ const Portfolio = () => {
                 transition={{ delay: 0.4 }}
                 className="text-5xl md:text-6xl font-bold leading-tight tracking-tighter mb-6"
               >
-                Hi, I'm <span className="text-indigo-600">Ahtasham</span>
+                Hi, I&apos;m <span className="text-indigo-600">Ahtasham</span>
               </motion.h1>
 
               <motion.div
@@ -496,7 +496,7 @@ const Portfolio = () => {
                   whileHover={{ x: 5 }}
                   className="text-gray-600 mb-6 leading-relaxed"
                 >
-                  I'm Muhammad Ahtasham, a passionate Front-End Developer with 4+ years of experience creating modern, responsive web applications. I specialize in translating design concepts into efficient, high-performing code that delivers exceptional user experiences.
+                  I&apos;m Muhammad Ahtasham, a passionate Front-End Developer with 4+ years of experience creating modern, responsive web applications. I specialize in translating design concepts into efficient, high-performing code that delivers exceptional user experiences.
                 </motion.p>
                 <motion.p
                   whileHover={{ x: 5 }}
@@ -761,7 +761,7 @@ const Portfolio = () => {
                 whileHover={{ scale: 1.02 }}
                 className="text-4xl font-bold mb-6"
               >
-                Let's Work Together
+                Let&apos;s Work Together
               </motion.h2>
               <motion.div
                 whileHover={{ width: 100 }}
